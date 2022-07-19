@@ -1,4 +1,3 @@
-from faulthandler import disable
 from tkinter import * 
 cal = Tk()    
 cal.iconbitmap(r"index.ico")
